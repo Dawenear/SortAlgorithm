@@ -16,6 +16,6 @@ After the sort is run, your array would be ordered by key in the above example a
 
 
 # Usage
-1) replace $example by any array you want
+1) replace `$example` by any array you want
 2) open it in browser
-3) output will be ordered array
+3) output will be ordered array, for example: `Array ( [50] => test [52] => a [23] => 3 [27] => 4 [17] => 6 [11] => 6 [51] => 6 [10] => 7 [9] => 7 )`
